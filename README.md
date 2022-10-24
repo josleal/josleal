@@ -1,6 +1,6 @@
-<p align="justify">
-##### Hi there 👋, my name is Josué 
-</p>
+
+## Hi there 👋, my name is Josué 
+
 <!--
 **josleal/josleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
