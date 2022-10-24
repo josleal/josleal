@@ -1,6 +1,6 @@
 
-## Hi there 👋, my name is Josué 
-#### I have a degree in production engineering and am a data science student.
+## Hi there 👋, my name is Josué 🇧🇷
+#### I have a degree in production engineering and am a data science student.📘💻
 <!--
 **josleal/josleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
