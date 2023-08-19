@@ -2,7 +2,7 @@
 ## Hi there, my name is Josué 👽
 
 <p align="justify">
-Graduated in production engineering and data science student. Interested in data analysis, statistics, mathematics, machine learning, artificial intelligence, Python programming language, R and SQL language.
+Graduated in production engineering and data science student. Interested in data analysis, statistics, machine learning, artificial intelligence, Python programming language and R.
 </p>
 
 #### 🖥️ Tecnologias e Ferramentas:
