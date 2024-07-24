@@ -2,7 +2,7 @@
 ## Hi there, my name is Josué 👽
 
 <p align="justify">
-Graduated in production engineering and computer engineering student. Interested in data science, statistics and machine learning.
+Graduated in production engineering and computer engineering student. Interested in data science, statistics, machine learning and computer vision.
 </p>
 
 #### 🖥️ Tecnologias e Ferramentas:
